@@ -1,0 +1,14 @@
+rate-repository-app/node_modules/**/*
+rate-repository-app/.expo/*
+rate-repository-app/npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+
